@@ -25,9 +25,6 @@ The dashboard is configured with two main panels:
 
 **Note on Limitation:** This setup uses the MQTT Data Source for **live monitoring**. Data is not stored historically in Grafana unless a time-series database (like Loki or InfluxDB) is added to the pipeline.
 
-### Dashboard Screenshot
-![Grafana Dashboard](https://raw.githubusercontent.com/eurusfox-24/ai_product_agent/main/Desktop/Wireless%2C%20RT/MQTT%20exercises/mqtt_pub_ss.png)
-*(Replace with your actual dashboard screenshot if different)*
 
 ---
 
